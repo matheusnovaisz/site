@@ -1,5 +1,13 @@
 const experiences = [
 	{
+		title: "Desenvolvedor Full-Stack",
+		company: "Freelancer",
+		period: "Mar 2024 - Presente",
+		description:
+			"Desenvolvimento de aplicações web e soluções tecnológicas para empresas e pessoas físicas.",
+		technologies: ["Next.js", "NestJS", "Tech Agnostic", "Solution Oriented"],
+	},
+	{
 		title: "Estágio em Qualidade de Software",
 		company: "Superintendência de Tecnologia da Informação - UFBA",
 		period: "Fev 2022 - Fev 2024",
@@ -12,15 +20,8 @@ const experiences = [
 		company: "InfoJr UFBA",
 		period: "Mar 2020 - Nov 2022",
 		description:
-			"Desenvolvimento de aplicações web para os mais diversos clientes. Atuação em várias áreas de desenvolvimento, como front-end, back-end, dev-ops, e de gerenciamento.",
-		technologies: [
-			"React",
-			"Next.js",
-			"TypeScript",
-			"Tailwind CSS",
-			"Node.js",
-			"NestJS",
-		],
+			"Desenvolvimento de aplicações web nas diversas áreas de atuação, tanto de desenvolvimento, quanto de gerenciamento de projetos.",
+		technologies: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
 	},
 ];
 
